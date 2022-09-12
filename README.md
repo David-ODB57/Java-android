@@ -3,6 +3,8 @@ Travail rendu pour l'évaluation en Java pour mobile dans le cadre de ma formati
 
 Affiche une liste de films avec le titre, une description, le réalisateur et la date de sortie.
 
+Liste obtenue à partir d'une requête vers une API.
+
 ## Installation
  - Clonez le projet.
  - Ouvrez le dans votre IDE.
